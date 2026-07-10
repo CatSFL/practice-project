@@ -12,6 +12,8 @@ int main()
 
     cout<<"Everything is stable on master"<<endl;
 
+    //Point
+    
     return 0; //NewPower
 }
 
