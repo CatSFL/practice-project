@@ -10,6 +10,7 @@ int main()
 
     print("?");
 
+    //from github
     cout<<"Everything is stable on master"<<endl;
 
     //Point
